@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1711996885.43352 "c:/Users/mk/Documents/GitHub/Kurs_Vespa_169/Kurs-Vespa-169.tex" "Kurs-Vespa-169.pdf" "Kurs-Vespa-169" 1711996889.45385 0
+["pdflatex"] 1712002409.78206 "c:/Users/mk/Documents/GitHub/Kurs_Vespa_169/Kurs-Vespa-169.tex" "Kurs-Vespa-169.pdf" "Kurs-Vespa-169" 1712002413.66398 0
   "C:/Users/mk/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1711877046 205803 a0b087fac001fe7d25fbcd12e1756d6c ""
   "C:/Users/mk/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1711990214 24234630 f77062e51dcdc11de3aed16adf6ea430 ""
   "C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256933040 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -236,12 +236,13 @@
   "C:/Users/mk/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/mk/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/mk/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700131122 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "Kurs-Vespa-169.aux" 1711996889 11083 e397dd9c10708276f7be7771e7ce9746 "pdflatex"
-  "Kurs-Vespa-169.nav" 1711996889 6407 6d50504b84ebd57717f1d7d319363ef0 "pdflatex"
-  "Kurs-Vespa-169.out" 1711996889 3416 da9f5b8ded3980123abbbc066b473f30 "pdflatex"
-  "Kurs-Vespa-169.tex" 1711996884 15729 667cc8dd725cc064a91d7e7ff0e2ae38 ""
-  "Kurs-Vespa-169.toc" 1711996889 1939 edd22db93ff1ae5e3dbfacf6e625604c "pdflatex"
-  "c:/Users/mk/Documents/GitHub/Kurs_Vespa_169/Kurs-Vespa-169.tex" 1711996884 15729 667cc8dd725cc064a91d7e7ff0e2ae38 ""
+  "Kurs-Vespa-169.aux" 1712002413 11083 e397dd9c10708276f7be7771e7ce9746 "pdflatex"
+  "Kurs-Vespa-169.nav" 1712002413 6407 6d50504b84ebd57717f1d7d319363ef0 "pdflatex"
+  "Kurs-Vespa-169.out" 1712002413 3416 da9f5b8ded3980123abbbc066b473f30 "pdflatex"
+  "Kurs-Vespa-169.tex" 1712002409 15736 ee024f59042cccfe5e370e0ca1cf1ed3 ""
+  "Kurs-Vespa-169.toc" 1712002413 1939 edd22db93ff1ae5e3dbfacf6e625604c "pdflatex"
+  "c:/Users/mk/Documents/GitHub/Kurs_Vespa_169/Kurs-Vespa-169.tex" 1712002409 15736 ee024f59042cccfe5e370e0ca1cf1ed3 ""
+  "figures/Asiatische_Hornisse.JPG" 1711990151 34411 b70ef0c2e55cafd6caa260ed13398338 ""
   "figures/BH-Logo.png" 1711990151 63300 4129ce4c265964f7c70d375bce524ac6 ""
   "figures/BH-Logo_Quat.png" 1711990151 53291 024901b743c9a9d130ba7dba432148b4 ""
   "figures/Insekten-31.png" 1711990151 123820 78bff2fa6ac2f7114ebcd796385fb32a ""
