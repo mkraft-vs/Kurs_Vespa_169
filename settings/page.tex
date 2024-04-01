@@ -1,0 +1,62 @@
+%% Theme
+%\usetheme{Berkeley} % theme for slides
+\usetheme{AnnArbor}
+%\usetheme{Frankfurt}
+%\usetheme{Madrid}
+%\usetheme{default}
+%\usetheme{Goettingen}
+
+%% Colors
+\usecolortheme{seahorse} % color for slides
+%\usecolortheme{default}
+%\setbeamercolor{titlelike}{parent=structure,bg=green}
+
+%%\setbeamercolor*{titlelike}{parent=palette primary}
+\setbeamercolor{titlelike}{parent=palette primary,fg=black, bg=c3} %gray!30!white
+\setbeamercolor{frametitle}{fg=black, bg=c1}
+%\setbeamercolor{framesubtitle}{c3}
+\setbeamercolor{frametitle right}{bg=gray!30!white}
+%\definecolor{darkgray}{rgb}{gray!30!white}
+\definecolor{c1}{rgb}{0,0.5,0.0} % some gray
+\definecolor{c2}{rgb}{0.4,0.69,0.2} % some gray
+\definecolor{c3}{rgb}{0.05,0.6,0.1} % some gray
+%% see http://www.sharelatex.com/learn/Beamer
+\setbeamercolor*{palette primary}{fg=white,bg=c3} % upper part
+\setbeamercolor*{palette secondary}{bg=c3} % left part (background)
+\setbeamercolor*{sidebar left}{fg=black,bg=c1} % left part with links
+\setbeamerfont{section number projected}{ % section numbers
+  family=\rmfamily,
+  series=\bfseries,
+  size=\normalsize
+  }
+
+
+\setbeamercolor{section number projected}{bg=c1} % color of section numbers and others (fg: Fontm, bg:Hintergrund)
+\setbeamercolor{item projected}{bg=c1}
+\setbeamercolor{itemize item}{fg=c1}
+\setbeamercolor{author in sidebar}{fg=black}
+
+
+%% Fonts
+\usefonttheme{professionalfonts} % changes fonts
+
+%% Foot
+\usenavigationsymbolstemplate{} % deafult controls off
+\setbeamertemplate{footline}[frame number] % slide number at the bottom
+\setbeamertemplate{footline}
+{%
+\setbeamercolor{footlinecolor}{fg=black,bg=c3}
+	\leavevmode%
+	\hbox{%
+	\begin{beamercolorbox}[wd=.3\paperwidth,ht=3ex,dp=1.5ex,left,leftskip=2mm]{footlinecolor}%
+		www.bluehende-Heimat.de
+	\end{beamercolorbox}%
+	\begin{beamercolorbox}[wd=.5\paperwidth,ht=3ex,dp=1.5ex,left,leftskip=2mm]{footlinecolor}%
+		manfred.kraft@bluehende-heimat.de
+	\end{beamercolorbox}%
+	\begin{beamercolorbox}[wd=.2\paperwidth,ht=3ex,dp=1.5ex,right,rightskip=2mm]{footlinecolor}%
+		\insertframenumber{} / \inserttotalframenumber%
+	\end{beamercolorbox}%
+	}%
+	\vskip0pt%
+}
