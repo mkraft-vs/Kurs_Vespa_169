@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  1 APR 2024 18:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  1 APR 2024 20:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -916,17 +916,14 @@ Package pdftex.def Info: figures/Insekten-31.png  used on input line 120.
  [6
 
 ]
-File: figures/Insekten-31.png Graphic file (type png)
-<use figures/Insekten-31.png>
-Package pdftex.def Info: figures/Insekten-31.png  used on input line 129.
-(pdftex.def)             Requested size: 346.67653pt x 198.16536pt.
+<figures/asiatische_hornisse3.jpg, id=261, 1832.19719pt x 1221.46478pt>
+File: figures/asiatische_hornisse3.jpg Graphic file (type jpg)
+<use figures/asiatische_hornisse3.jpg>
+Package pdftex.def Info: figures/asiatische_hornisse3.jpg  used on input line 129.
+(pdftex.def)             Requested size: 260.00905pt x 173.33365pt.
+ [7
 
-Overfull \vbox (20.5661pt too high) detected at line 129
- []
-
-[7
-
-]
+ <./figures/asiatische_hornisse3.jpg>]
 File: figures/BH-Logo_Quat.png Graphic file (type png)
 <use figures/BH-Logo_Quat.png>
 Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 138.
@@ -1137,17 +1134,17 @@ Package rerunfilecheck Info: File `Kurs-Vespa-169.out' has not changed.
 (rerunfilecheck)             Checksum: DA9F5B8DED3980123ABBBC066B473F30;3416.
  ) 
 Here is how much of TeX's memory you used:
- 32344 strings out of 474423
- 688995 string characters out of 5743135
+ 32351 strings out of 474423
+ 689267 string characters out of 5743135
  1948496 words of memory out of 5000000
- 53935 multiletter control sequences out of 15000+600000
+ 53942 multiletter control sequences out of 15000+600000
  583700 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,123p,433b,872s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on Kurs-Vespa-169.pdf (49 pages, 511378 bytes).
+Output written on Kurs-Vespa-169.pdf (49 pages, 758234 bytes).
 PDF statistics:
- 716 PDF objects out of 1000 (max. 8388607)
+ 717 PDF objects out of 1000 (max. 8388607)
  128 named destinations out of 1000 (max. 500000)
- 584 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 589 words of extra memory for PDF output out of 10000 (max. 10000000)
 
