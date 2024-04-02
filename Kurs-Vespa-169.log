@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  2 APR 2024 11:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  2 APR 2024 11:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -889,10 +889,20 @@ Package pdftex.def Info: figures/Herkunft_2.jpg  used on input line 74.
 (pdftex.def)             Requested size: 173.33496pt x 90.10384pt.
  [3
 
- <./figures/Herkunft_2.jpg>] [4
+ <./figures/Herkunft_2.jpg>]
+<figures/Progression_Invasion_Vespa_velutina-Q_Rome_MNHN2023b.jpg, id=182, 1281.78876pt x 1021.8175pt>
+File: figures/Progression_Invasion_Vespa_velutina-Q_Rome_MNHN2023b.jpg Graphic file (type jpg)
+<use figures/Progression_Invasion_Vespa_velutina-Q_Rome_MNHN2023b.jpg>
+Package pdftex.def Info: figures/Progression_Invasion_Vespa_velutina-Q_Rome_MNHN2023b.jpg  used on input line 87.
+(pdftex.def)             Requested size: 229.6718pt x 183.07726pt.
 
-]
-<figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg, id=192, 219.73987pt x 310.56567pt>
+Overfull \vbox (5.478pt too high) detected at line 87
+ []
+
+[4
+
+ <./figures/Progression_Invasion_Vespa_velutina-Q_Rome_MNHN2023b.jpg>]
+<figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg, id=193, 219.73987pt x 310.56567pt>
 File: figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg Graphic file (type jpg)
 <use figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg>
 Package pdftex.def Info: figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg  used on input line 100.
@@ -908,7 +918,7 @@ File: figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg Graphic fil
 <use figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg>
 Package pdftex.def Info: figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg  used on input line 114.
 (pdftex.def)             Requested size: 143.00432pt x 202.11646pt.
-<figures/Screenshot 2024-03-06 at 11-21-52 Asiatische Hornisse Fundortkarte - LUBW.png, id=203, 570.13pt x 647.41875pt>
+<figures/Screenshot 2024-03-06 at 11-21-52 Asiatische Hornisse Fundortkarte - LUBW.png, id=204, 570.13pt x 647.41875pt>
 File: figures/Screenshot 2024-03-06 at 11-21-52 Asiatische Hornisse Fundortkarte - LUBW.png Graphic file (type png)
 <use figures/Screenshot 2024-03-06 at 11-21-52 Asiatische Hornisse Fundortkarte - LUBW.png>
 Package pdftex.def Info: figures/Screenshot 2024-03-06 at 11-21-52 Asiatische Hornisse Fundortkarte - LUBW.png  used on input line 114.
@@ -920,7 +930,7 @@ Overfull \vbox (25.9948pt too high) detected at line 114
 [6
 
  <./figures/Screenshot 2024-03-06 at 11-21-52 Asiatische Hornisse Fundortkarte - LUBW.png>]
-<figures/Südwesten.JPG, id=215, 313.9228pt x 575.14874pt>
+<figures/Südwesten.JPG, id=216, 313.9228pt x 575.14874pt>
 File: figures/Südwesten.JPG Graphic file (type jpg)
 <use figures/Südwesten.JPG>
 Package pdftex.def Info: figures/Südwesten.JPG  used on input line 127.
@@ -932,7 +942,7 @@ Overfull \vbox (36.69814pt too high) detected at line 127
 [7
 
  <./figures/Südwesten.JPG>]
-<figures/Insekten-31.png, id=228, 724.64014pt x 414.21866pt>
+<figures/Insekten-31.png, id=229, 724.64014pt x 414.21866pt>
 File: figures/Insekten-31.png Graphic file (type png)
 <use figures/Insekten-31.png>
 Package pdftex.def Info: figures/Insekten-31.png  used on input line 147.
@@ -940,7 +950,7 @@ Package pdftex.def Info: figures/Insekten-31.png  used on input line 147.
  [8
 
  <./figures/Insekten-31.png>]
-<figures/asiatische_hornisse3.jpg, id=251, 1832.19719pt x 1221.46478pt>
+<figures/asiatische_hornisse3.jpg, id=252, 1832.19719pt x 1221.46478pt>
 File: figures/asiatische_hornisse3.jpg Graphic file (type jpg)
 <use figures/asiatische_hornisse3.jpg>
 Package pdftex.def Info: figures/asiatische_hornisse3.jpg  used on input line 156.
@@ -948,7 +958,7 @@ Package pdftex.def Info: figures/asiatische_hornisse3.jpg  used on input line 15
  [9
 
  <./figures/asiatische_hornisse3.jpg>]
-<figures/Asiatische_Hornisse.JPG, id=262, 415.5525pt x 280.04625pt>
+<figures/Asiatische_Hornisse.JPG, id=263, 415.5525pt x 280.04625pt>
 File: figures/Asiatische_Hornisse.JPG Graphic file (type jpg)
 <use figures/Asiatische_Hornisse.JPG>
 Package pdftex.def Info: figures/Asiatische_Hornisse.JPG  used on input line 165.
@@ -956,7 +966,7 @@ Package pdftex.def Info: figures/Asiatische_Hornisse.JPG  used on input line 165
  [10
 
  <./figures/Asiatische_Hornisse.JPG>]
-<figures/Europaeische_Hornisse.JPG, id=272, 447.92343pt x 300.3722pt>
+<figures/Europaeische_Hornisse.JPG, id=273, 447.92343pt x 300.3722pt>
 File: figures/Europaeische_Hornisse.JPG Graphic file (type jpg)
 <use figures/Europaeische_Hornisse.JPG>
 Package pdftex.def Info: figures/Europaeische_Hornisse.JPG  used on input line 174.
@@ -964,7 +974,7 @@ Package pdftex.def Info: figures/Europaeische_Hornisse.JPG  used on input line 1
  [11
 
  <./figures/Europaeische_Hornisse.JPG>]
-<figures/Boecking-Otto-cropped-195449.jpeg, id=283, 511.9125pt x 383.93437pt>
+<figures/Boecking-Otto-cropped-195449.jpeg, id=284, 511.9125pt x 383.93437pt>
 File: figures/Boecking-Otto-cropped-195449.jpeg Graphic file (type jpg)
 <use figures/Boecking-Otto-cropped-195449.jpeg>
 Package pdftex.def Info: figures/Boecking-Otto-cropped-195449.jpeg  used on input line 181.
@@ -976,7 +986,7 @@ Overfull \vbox (17.40793pt too high) detected at line 181
 [12
 
  <./figures/Boecking-Otto-cropped-195449.jpeg>]
-<figures/Vergleich.JPG, id=293, 435.12563pt x 366.61969pt>
+<figures/Vergleich.JPG, id=294, 435.12563pt x 366.61969pt>
 File: figures/Vergleich.JPG Graphic file (type jpg)
 <use figures/Vergleich.JPG>
 Package pdftex.def Info: figures/Vergleich.JPG  used on input line 188.
@@ -988,7 +998,7 @@ Overfull \vbox (4.96611pt too high) detected at line 188
 [13
 
  <./figures/Vergleich.JPG>]
-<figures/verwechselung.JPG, id=304, 634.62094pt x 427.5975pt>
+<figures/verwechselung.JPG, id=305, 634.62094pt x 427.5975pt>
 File: figures/verwechselung.JPG Graphic file (type jpg)
 <use figures/verwechselung.JPG>
 Package pdftex.def Info: figures/verwechselung.JPG  used on input line 196.
@@ -1000,7 +1010,7 @@ Overfull \vbox (12.18842pt too high) detected at line 196
 [14
 
  <./figures/verwechselung.JPG>]
-<figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png, id=314, 246.6816pt x 76.3653pt>
+<figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png, id=315, 246.6816pt x 76.3653pt>
 File: figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png Graphic file (type png)
 <use figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png>
 Package pdftex.def Info: figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png  used on input line 208.
@@ -1008,7 +1018,7 @@ Package pdftex.def Info: figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-
  [15
 
  <./figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png>]
-<figures/BH-Logo_Quat.png, id=325, 66.357pt x 66.0285pt>
+<figures/BH-Logo_Quat.png, id=326, 66.357pt x 66.0285pt>
 File: figures/BH-Logo_Quat.png Graphic file (type png)
 <use figures/BH-Logo_Quat.png>
 Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 215.
@@ -1198,17 +1208,17 @@ Package rerunfilecheck Info: File `Kurs-Vespa-169.out' has not changed.
 (rerunfilecheck)             Checksum: 75F226AF031B0B7F37C0ABD3EE285001;3416.
  ) 
 Here is how much of TeX's memory you used:
- 32437 strings out of 474423
- 692556 string characters out of 5743135
- 1948496 words of memory out of 5000000
- 54017 multiletter control sequences out of 15000+600000
+ 32444 strings out of 474423
+ 693052 string characters out of 5743135
+ 1947496 words of memory out of 5000000
+ 54024 multiletter control sequences out of 15000+600000
  583700 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,123p,433b,872s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on Kurs-Vespa-169.pdf (54 pages, 1943552 bytes).
+Output written on Kurs-Vespa-169.pdf (54 pages, 2134623 bytes).
 PDF statistics:
- 749 PDF objects out of 1000 (max. 8388607)
+ 750 PDF objects out of 1000 (max. 8388607)
  139 named destinations out of 1000 (max. 500000)
- 543 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 548 words of extra memory for PDF output out of 10000 (max. 10000000)
 
