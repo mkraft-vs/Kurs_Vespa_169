@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  1 APR 2024 23:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  2 APR 2024 10:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -964,139 +964,150 @@ Overfull \vbox (4.96611pt too high) detected at line 161
 [11
 
  <./figures/Vergleich.JPG>]
-File: figures/BH-Logo_Quat.png Graphic file (type png)
-<use figures/BH-Logo_Quat.png>
-Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 175.
-(pdftex.def)             Requested size: 86.66748pt x 86.24507pt.
- [12
+<figures/verwechselung.JPG, id=314, 634.62094pt x 427.5975pt>
+File: figures/verwechselung.JPG Graphic file (type jpg)
+<use figures/verwechselung.JPG>
+Package pdftex.def Info: figures/verwechselung.JPG  used on input line 169.
+(pdftex.def)             Requested size: 281.67096pt x 189.78767pt.
 
-]
-File: figures/BH-Logo_Quat.png Graphic file (type png)
-<use figures/BH-Logo_Quat.png>
-Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 182.
-(pdftex.def)             Requested size: 86.66748pt x 86.24507pt.
+Overfull \vbox (12.18842pt too high) detected at line 169
+ []
+
+[12
+
+ <./figures/verwechselung.JPG>]
+<figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png, id=324, 246.6816pt x 76.3653pt>
+File: figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png Graphic file (type png)
+<use figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png>
+Package pdftex.def Info: figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png  used on input line 181.
+(pdftex.def)             Requested size: 433.34402pt x 134.16327pt.
  [13
 
-] [14
+ <./figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png>]
+File: figures/BH-Logo_Quat.png Graphic file (type png)
+<use figures/BH-Logo_Quat.png>
+Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 188.
+(pdftex.def)             Requested size: 86.66748pt x 86.24507pt.
+ [14
 
 ] [15
 
 ] [16
 
-]
-File: figures/BH-Logo_Quat.png Graphic file (type png)
-<use figures/BH-Logo_Quat.png>
-Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 210.
-(pdftex.def)             Requested size: 86.66748pt x 86.24507pt.
- [17
+] [17
 
 ]
 File: figures/BH-Logo_Quat.png Graphic file (type png)
 <use figures/BH-Logo_Quat.png>
-Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 220.
+Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 216.
 (pdftex.def)             Requested size: 86.66748pt x 86.24507pt.
  [18
 
 ]
 File: figures/BH-Logo_Quat.png Graphic file (type png)
 <use figures/BH-Logo_Quat.png>
-Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 230.
+Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 226.
 (pdftex.def)             Requested size: 86.66748pt x 86.24507pt.
  [19
 
 ]
 File: figures/BH-Logo_Quat.png Graphic file (type png)
 <use figures/BH-Logo_Quat.png>
-Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 244.
+Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 236.
 (pdftex.def)             Requested size: 86.66748pt x 86.24507pt.
  [20
 
+]
+File: figures/BH-Logo_Quat.png Graphic file (type png)
+<use figures/BH-Logo_Quat.png>
+Package pdftex.def Info: figures/BH-Logo_Quat.png  used on input line 250.
+(pdftex.def)             Requested size: 86.66748pt x 86.24507pt.
+ [21
+
 ] (Kurs-Vespa-169.toc)
-Overfull \vbox (196.32571pt too high) detected at line 268
+Overfull \vbox (196.32571pt too high) detected at line 274
  []
 
-[21
+[22
 
-] [22
+] [23
 
 ]
 File: figures/BH-Logo.png Graphic file (type png)
 <use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 311.
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 317.
 (pdftex.def)             Requested size: 130.00452pt x 51.84659pt.
- [23
-
-]
-File: figures/BH-Logo.png Graphic file (type png)
-<use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 311.
-(pdftex.def)             Requested size: 173.33826pt x 69.12845pt.
  [24
 
 ]
 File: figures/BH-Logo.png Graphic file (type png)
 <use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 311.
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 317.
 (pdftex.def)             Requested size: 173.33826pt x 69.12845pt.
  [25
 
-] [26
+]
+File: figures/BH-Logo.png Graphic file (type png)
+<use figures/BH-Logo.png>
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 317.
+(pdftex.def)             Requested size: 173.33826pt x 69.12845pt.
+ [26
+
+] [27
 
 ]
 File: figures/BH-Logo.png Graphic file (type png)
 <use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 352.
-(pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
- [27
-
-]
-File: figures/BH-Logo.png Graphic file (type png)
-<use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 352.
-(pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
-File: figures/BH-Logo.png Graphic file (type png)
-<use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 352.
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 358.
 (pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
  [28
 
 ]
 File: figures/BH-Logo.png Graphic file (type png)
 <use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 352.
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 358.
 (pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
 File: figures/BH-Logo.png Graphic file (type png)
 <use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 352.
-(pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
-File: figures/BH-Logo.png Graphic file (type png)
-<use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 352.
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 358.
 (pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
  [29
 
 ]
 File: figures/BH-Logo.png Graphic file (type png)
 <use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 352.
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 358.
 (pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
 File: figures/BH-Logo.png Graphic file (type png)
 <use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 352.
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 358.
 (pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
 File: figures/BH-Logo.png Graphic file (type png)
 <use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 352.
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 358.
 (pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
  [30
 
+]
+File: figures/BH-Logo.png Graphic file (type png)
+<use figures/BH-Logo.png>
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 358.
+(pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
+File: figures/BH-Logo.png Graphic file (type png)
+<use figures/BH-Logo.png>
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 358.
+(pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
+File: figures/BH-Logo.png Graphic file (type png)
+<use figures/BH-Logo.png>
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 358.
+(pdftex.def)             Requested size: 75.83652pt x 30.2445pt.
+ [31
+
 ] (Kurs-Vespa-169.toc)
-Overfull \vbox (209.92572pt too high) detected at line 365
+Overfull \vbox (209.92572pt too high) detected at line 371
  []
 
-[31
-
-] [32
+[32
 
 ] [33
 
@@ -1110,14 +1121,14 @@ Overfull \vbox (209.92572pt too high) detected at line 365
 
 ] [38
 
+] [39
+
 ]
 File: figures/BH-Logo.png Graphic file (type png)
 <use figures/BH-Logo.png>
-Package pdftex.def Info: figures/BH-Logo.png  used on input line 440.
+Package pdftex.def Info: figures/BH-Logo.png  used on input line 446.
 (pdftex.def)             Requested size: 433.34402pt x 172.82263pt.
- [39
-
-] [40
+ [40
 
 ] [41
 
@@ -1141,6 +1152,8 @@ Package pdftex.def Info: figures/BH-Logo.png  used on input line 440.
 
 ] [51
 
+] [52
+
 ]
 \tf@nav=\write6
 \openout6 = `Kurs-Vespa-169.nav'.
@@ -1157,20 +1170,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `Kurs-Vespa-169.out' has not changed.
-(rerunfilecheck)             Checksum: C6A8289B46E37E4D534A8502E5C63CE5;3416.
+(rerunfilecheck)             Checksum: D61D3BF51F68DC4BD6FEF7A3FF1992FE;3416.
  ) 
 Here is how much of TeX's memory you used:
- 32387 strings out of 474423
- 690415 string characters out of 5743135
- 1948496 words of memory out of 5000000
- 53974 multiletter control sequences out of 15000+600000
+ 32405 strings out of 474423
+ 691192 string characters out of 5743135
+ 1949496 words of memory out of 5000000
+ 53990 multiletter control sequences out of 15000+600000
  583700 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,123p,433b,872s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/mk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb>
-Output written on Kurs-Vespa-169.pdf (51 pages, 946971 bytes).
+Output written on Kurs-Vespa-169.pdf (52 pages, 1163555 bytes).
 PDF statistics:
- 739 PDF objects out of 1000 (max. 8388607)
- 132 named destinations out of 1000 (max. 500000)
- 609 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 752 PDF objects out of 1000 (max. 8388607)
+ 134 named destinations out of 1000 (max. 500000)
+ 619 words of extra memory for PDF output out of 10000 (max. 10000000)
 

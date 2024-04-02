@@ -8,22 +8,22 @@
 \beamer@subsubsectionintoc {2}{1}{1}{Allgemeine Information}{6}{0}{2}
 \beamer@subsubsectionintoc {2}{1}{2}{Körperbau}{7}{0}{2}
 \beamer@subsubsectionintoc {2}{1}{3}{Verwechslungsgefahr mit der europ. Hornisse}{9}{0}{2}
-\beamer@subsectionintoc {2}{2}{Entwicklung der Hornisse}{12}{0}{2}
-\beamer@subsectionintoc {2}{3}{Nester der Vespa velutina}{14}{0}{2}
-\beamer@subsubsectionintoc {2}{3}{1}{Embryonal-Nest}{17}{0}{2}
-\beamer@subsubsectionintoc {2}{3}{2}{Primär-Nest}{18}{0}{2}
-\beamer@subsubsectionintoc {2}{3}{3}{Sekundär-Nest}{19}{0}{2}
-\beamer@subsubsectionintoc {2}{3}{4}{Reproduktionsphase}{20}{0}{2}
-\beamer@subsubsectionintoc {2}{3}{5}{Lebenszyklus der Vespa velutina}{21}{0}{2}
-\beamer@sectionintoc {3}{Auswirkungen auf die Biodiversität und die Menschen}{21}{0}{3}
-\beamer@sectionintoc {4}{Bekämpfung der vespa velutina}{21}{0}{4}
-\beamer@subsectionintoc {4}{1}{Welche Flächen stehen uns zur Verfügung?}{22}{0}{4}
-\beamer@subsectionintoc {4}{2}{Gruppen-Arbeit}{26}{0}{4}
-\beamer@sectionintoc {5}{Lebensraum der Vespa velutina}{31}{0}{5}
-\beamer@subsectionintoc {5}{1}{Summary Gruppe "Garten"}{32}{0}{5}
-\beamer@subsectionintoc {5}{2}{Summary Gruppe "Strasse"}{33}{0}{5}
-\beamer@subsectionintoc {5}{3}{Summary Gruppe "Blühfläche"}{34}{0}{5}
-\beamer@sectionintoc {6}{Verwechselungsgefahr!}{35}{0}{6}
-\beamer@sectionintoc {7}{Meldepflicht}{39}{0}{7}
-\beamer@subsectionintoc {7}{1}{Wie geht's weiter?}{40}{0}{7}
-\beamer@sectionintoc {8}{Wie finden wir die Nester?}{46}{0}{8}
+\beamer@subsectionintoc {2}{2}{Entwicklung der Hornisse}{13}{0}{2}
+\beamer@subsectionintoc {2}{3}{Nester der Vespa velutina}{15}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{1}{Embryonal-Nest}{18}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{2}{Primär-Nest}{19}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{3}{Sekundär-Nest}{20}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{4}{Reproduktionsphase}{21}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{5}{Lebenszyklus der Vespa velutina}{22}{0}{2}
+\beamer@sectionintoc {3}{Auswirkungen auf die Biodiversität und die Menschen}{22}{0}{3}
+\beamer@sectionintoc {4}{Bekämpfung der vespa velutina}{22}{0}{4}
+\beamer@subsectionintoc {4}{1}{Welche Flächen stehen uns zur Verfügung?}{23}{0}{4}
+\beamer@subsectionintoc {4}{2}{Gruppen-Arbeit}{27}{0}{4}
+\beamer@sectionintoc {5}{Lebensraum der Vespa velutina}{32}{0}{5}
+\beamer@subsectionintoc {5}{1}{Summary Gruppe "Garten"}{33}{0}{5}
+\beamer@subsectionintoc {5}{2}{Summary Gruppe "Strasse"}{34}{0}{5}
+\beamer@subsectionintoc {5}{3}{Summary Gruppe "Blühfläche"}{35}{0}{5}
+\beamer@sectionintoc {6}{Verwechselungsgefahr!}{36}{0}{6}
+\beamer@sectionintoc {7}{Meldepflicht}{40}{0}{7}
+\beamer@subsectionintoc {7}{1}{Wie geht's weiter?}{41}{0}{7}
+\beamer@sectionintoc {8}{Wie finden wir die Nester?}{47}{0}{8}
