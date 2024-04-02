@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  2 APR 2024 11:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  2 APR 2024 11:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -886,8 +886,12 @@ Overfull \vbox (48.1257pt too high) detected at line 56
 File: figures/Herkunft_2.jpg Graphic file (type jpg)
 <use figures/Herkunft_2.jpg>
 Package pdftex.def Info: figures/Herkunft_2.jpg  used on input line 74.
-(pdftex.def)             Requested size: 173.33496pt x 90.10384pt.
- [3
+(pdftex.def)             Requested size: 346.67653pt x 180.2134pt.
+
+Overfull \vbox (2.61414pt too high) detected at line 74
+ []
+
+[3
 
  <./figures/Herkunft_2.jpg>]
 <figures/Progression_Invasion_Vespa_velutina-Q_Rome_MNHN2023b.jpg, id=182, 1281.78876pt x 1021.8175pt>
