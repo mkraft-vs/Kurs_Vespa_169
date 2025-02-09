@@ -1,0 +1,407 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Document class
+\documentclass[aspectratio=169]{beamer}
+
+% Packages
+\input{settings/packages}
+
+% Page settings
+\input{settings/page}
+
+% New commands
+\input{settings/macros}
+
+% Use outer theme
+\useoutertheme{infolines}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Title page
+\author[Manfred]{Manfred Kraft}
+\title[Vespa velutina-240310]{\textbf{Asiatische Hornisse \\ Vespa velutina nigrithorax}}
+\titlegraphic{\includegraphics[width=0.40\textwidth]{figures/BH-Logo.png}}
+\institute{www.bluehende-Heimat.de}
+\date{Unterkirnach, \today}
+\frame{\titlepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}{Ausgangs-Situation}
+\frametitle{Vespa velutina, eine invasive Art}
+\framesubtitle{Lebensweise und Lebensraum}
+\tableofcontents[hideallsubsections]
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Herkunft}
+
+\subsection[Ausgangslage]{Herkunft der Vespa velutina}
+
+\subsubsection[Ursprung]{Ursprung}
+
+\begin{frame}{Herkunft der Vespa velutina}
+\framesubtitle{Wo ist die Vespa velutina ursprünglich beheimatet?}
+\begin{center}	
+    \includegraphics[width=0.8\textwidth]{figures/Herkunft_2.jpg}
+\end{center}
+\end{frame}
+
+\subsubsection[Ankunft in Europa]{Ankunft in Europa}
+
+\begin{frame}{Ankunft in Europa}
+\framesubtitle{Herkunft der Vespa velutina}
+\begin{center}	
+    \includegraphics[width=0.53\textwidth]{figures/Progression_Invasion_Vespa_velutina-Q_Rome_MNHN2023b.jpg}
+\end{center}
+\end{frame}
+
+\subsubsection[Ankunft in Deutschland]{Ankunft in Deutschland}
+
+\begin{frame}{Ankunft in Deutschland}
+\framesubtitle{Herkunft der Vespa velutina}
+\begin{center}	
+    \includegraphics[width=0.33\textwidth]{figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg}
+\end{center}
+\end{frame}
+
+\subsubsection[Ausbreitung in Deutschland]{Ausbreitung in Deutschland}
+
+\begin{frame}{Ausbreitung in Deutschland}
+\framesubtitle{Herkunft der Vespa velutina}
+\includegraphics[width=0.33\textwidth]{figures/Asiatische Hornisse Verbreitung 2014-2022_900x1272.jpg}
+\includegraphics[width=0.43\textwidth]{figures/Screenshot 2024-03-06 at 11-21-52 Asiatische Hornisse Fundortkarte - LUBW.png}
+\end{frame}
+
+\begin{frame}{Ausbreitung in Deutschland}
+\framesubtitle{Herkunft der Vespa velutina}
+\includegraphics[width=0.28\textwidth]{figures/Südwesten.JPG}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Lebensweise und Lebensraum der Vespa velutina}
+
+\subsection{Aussehen und Lebensweise}
+
+\subsubsection[Allgemeine Information]{Allgemeine Information}
+
+\begin{frame}{Allgemeine Information}
+\framesubtitle{Aussehen und Lebensweise}
+\begin{examples}{Reproduktionsphase: }{bis 250 Jungköniginnen!}
+    \begin{center}	
+        \includegraphics[width=0.2\textwidth]{figures/Insekten-31.png}
+    \end{center}
+\end{examples}
+\end{frame}
+
+\subsubsection[Körperbau]{Körperbau}
+
+\begin{frame}{Aussehen und Verhalten}
+\framesubtitle{Aussehen und Lebensweise}
+\begin{center}	
+    \includegraphics[width=0.6\textwidth]{figures/asiatische_hornisse3.jpg}
+\end{center}
+\end{frame}
+
+\begin{frame}{Unterschiede Männliches und weibliches Insekt}
+\framesubtitle{Aussehen und Lebensweise}
+\begin{center}	
+    \includegraphics[width=0.6\textwidth]{figures/Asiatische_Hornisse.JPG}
+\end{center}
+\end{frame}
+
+\subsubsection[Verwechslungsgefahr]{Verwechslungsgefahr mit der europ. Hornisse}
+
+\begin{frame}{Verwechslungsgefahr mit der europ. Hornisse 1}
+\framesubtitle{Aussehen und Lebensweise}
+\begin{center}	
+    \includegraphics[width=0.6\textwidth]{figures/Europaeische_Hornisse.JPG}
+\end{center}
+\end{frame}
+
+\begin{frame}{Verwechslungsgefahr mit der europ. Hornisse 2}
+\framesubtitle{Aussehen und Lebensweise}
+\begin{center}	
+    \includegraphics[width=0.6\textwidth]{figures/Boecking-Otto-cropped-195449.jpeg}
+\end{center}
+\end{frame}
+
+\begin{frame}{Verwechslungsgefahr mit der europ. Hornisse 3}
+\framesubtitle{Aussehen und Lebensweise}
+\begin{center}	
+    \includegraphics[width=0.5\textwidth]{figures/Vergleich.JPG}
+\end{center}
+\end{frame}
+
+\begin{frame}{Verwechslungsgefahr mit der europ. Hornisse 3}
+\framesubtitle{Aussehen und Lebensweise}
+\begin{center}	
+    \includegraphics[width=0.65\textwidth]{figures/verwechselung.JPG}
+\end{center}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection[Entwicklung]{Entwicklung der Hornisse}
+
+\begin{frame}{Entwicklung der Vespa velutina}
+\begin{center}	
+    \includegraphics[width=1.0\textwidth]{figures/Vespa-velutina-fondatrice-vs-ouvrière_INPN-1-1024x317.png}
+\end{center}
+\end{frame}
+
+\begin{frame}{Wabe der Vespa velutina}
+\begin{center}	
+    \includegraphics[width=0.2\textwidth]{figures/BH-Logo_Quat.png}
+\end{center}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection[Nester]{Nester der Vespa velutina}
+
+\begin{frame}{Nester der Vespa velutina}
+\frametitle{Nester der Vespa velutina} 
+\framesubtitle{Die verschiedenen Nester der Hornisse}
+
+\begin{columns}[t]
+    \column{0.45\textwidth}
+    \begin{enumerate}
+        \item \textbf{Embryonal-Nester}: Die Jungkönigin zieht die ersten Arbeiterinnen auf
+        \item \textbf{Primär-Nest}: Das Volk wird weiter aufgebaut...
+        \item \textbf{Sekundärnest}: ... und erreicht dann seine volle Größe
+    \end{enumerate}	
+    \column{0.5\textwidth}
+    \begin{overlayarea}{\textwidth}{0.45\textheight}
+        \only<1->{\includegraphics[width=0.45\textwidth]{figures/Altmeyer1.jpg}}
+        \only<2->{\includegraphics[width=0.45\textwidth, height=0.37\textwidth]{figures/asiatische_hornisse4.jpg}}
+        \only<3->{\includegraphics[width=0.45\textwidth]{figures/asiatische_hornisse1.jpg}}
+    </begin{overlayarea}
+</end{columns}	
+\end{frame}
+
+\subsubsection[Embryonal-Nest]{Embryonal-Nest}
+
+\begin{frame}{Embryonal-Nest}
+\frametitle{Nester der Vespa velutina} 
+\framesubtitle{Die verschiedenen Nester der Hornisse}
+\begin{center}
+    \includegraphics[width=0.6\textwidth]{figures/Altmeyer3.jpg}
+\end{center}
+\end{frame}
+
+\subsubsection[Sekundär-Nest]{Primär-Nest}
+
+\begin{frame}{Primär-Nest}
+\frametitle{Nester der Vespa velutina} 
+\framesubtitle{Die verschiedenen Nester der Hornisse}
+\begin{center}	
+    \includegraphics[width=0.6\textwidth]{figures/asiatische_hornisse4.jpg}
+\end{center}
+\end{frame}
+
+\subsubsection[Sekundär-Nest]{Sekundär-Nest}
+
+\begin{frame}{Sekundär-Nest}
+\frametitle{Nester der Vespa velutina} 
+\framesubtitle{Die verschiedenen Nester der Hornisse}
+\begin{center}	
+    \includegraphics[width=0.6\textwidth]{figures/asiatische_hornisse1.jpg}
+\end{center}
+\end{frame}
+
+\subsubsection[Reproduktionsphase]{Reproduktionsphase}
+
+\begin{frame}{Reproduktionsphase}
+\frametitle{Reproduktionsphase} 
+\framesubtitle{Wie vermehrt sich die Vespa velutina?}
+\begin{examples}{Reproduktionsphase: }{bis 250 Jungköniginnen!}
+\begin{center}	
+    \includegraphics[width=0.2\textwidth]{figures/BH-Logo_Quat.png}
+\end{center}
+\end{examples}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Auswirkungen auf die Biodiversität und die Menschen}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Bekämpfung der vespa velutina}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Gruppenarbeit}
+\frametitle{Wie können wir unsere Ziele erreichen?} 
+\framesubtitle{... durch Gruppenarbeit.}
+\tableofcontents[currentsection,hidesubsections]
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection[Flächen]{Welche Flächen stehen uns zur Verfügung?}
+
+\begin{frame}{Flächeneinteilung}
+\frametitle{In welcher Gruppe möchten Sie sich engagieren?} 
+\framesubtitle{Flächeneinteilung}
+
+\textbf{Flächeneinteilung}\\
+Wir haben die in Frage kommenden Flächen in drei Gruppen aufgeteilt:
+
+\begin{columns}[t]
+    \column{0.45\textwidth}
+    \begin{enumerate}
+        \item Gärten \& Balkone
+        \item Straßen, Gehwege und Verkehrsinseln
+        \item Private und öffentliche Flächen
+    \end{enumerate}	
+    \column{0.5\textwidth}
+    \mbox{} 
+    \begin{overlayarea}{\textwidth}{0.4\textheight}
+        \includegraphics[width=0.6\textwidth]{figures/BH-Logo.png}
+    </begin{overlayarea}
+</end{columns}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection[Gruppen-Arbeit]{Gruppen-Arbeit}
+
+\begin{frame}{Gruppen-Einteilung}
+\frametitle{In welcher Gruppe möchten Sie sich engagieren?} 
+\framesubtitle{Gruppen-Einteilung}
+
+\textbf{Gruppen-Einteilung}\\
+Wir haben die in Frage kommenden Flächen in drei Gruppen aufgeteilt:\\
+Merken Sie sich bitte Ihre Gruppe:
+\begin{columns}[t]
+    \column{0.45\textwidth}
+    \begin{enumerate}
+        \item \textbf{Gruppe "Garten"}: Gärten \& Balkone
+        \item Gruppe \textbf{"Strasse"}: Straßen, Gehwege und Verkehrsinseln
+        \item Gruppe \textbf{"Blühfläche"}: Private und öffentliche Flächen
+        \item Gruppe \textbf{"Öffentlichkeitsarbeit"}
+    \end{enumerate}	
+    \column{0.5\textwidth}
+    \mbox{} 
+    \begin{overlayarea}{\textwidth}{0.4\textheight}
+        \includegraphics[width=0.35\textwidth]{figures/BH-Logo.png}
+    </begin{overlayarea}
+</end{columns}	
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Lebensraum der Vespa velutina}
+
+\begin{frame}{Gruppenarbeit}
+\frametitle{Zusammenfassung} 
+\framesubtitle{Vorstellung der Gruppenergebnisse.}
+\tableofcontents[currentsection,hidesubsections]
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection[Garten]{Summary Gruppe "Garten"}
+
+\begin{frame}{Garten}
+\frametitle{Zusammenfassung Gruppe "Garten"} 
+\framesubtitle{Vorstellung der Gruppenergebnisse.}
+Zusammenfassung Gruppe "Garten"
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection[Strasse]{Summary Gruppe "Strasse"}
+
+\begin{frame}{Strasse}
+\frametitle{Zusammenfassung Gruppe "Strasse"} 
+\framesubtitle{Vorstellung der Gruppenergebnisse}
+Zusammenfassung Gruppe "Strasse"
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection[Blühfläche]{Summary Gruppe "Blühfläche"}
+
+\begin{frame}{Blühfläche}
+\frametitle{Zusammenfassung Gruppe "Blühfläche"} 
+\framesubtitle{Vorstellung der Gruppenergebnisse}
+Zusammenfassung Gruppe "Blühfläche"
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section[Heimische Insekten]{Verwechselungsgefahr!}
+
+\begin{frame}{Unterstützung}
+\frametitle{Wo bekommen wir Unterstützung her?} 
+\framesubtitle{Handel. Gewerbe \& Wettbewerbe}
+
+\textbf{Sponsoren, Wettbewerbe etc.}\\
+Finanzielle Unterstützung bei der Anlage und Betreuung der Blühflächen:
+
+\begin{itemize}
+    \item \textbf{Handel \& Gewerbe} 
+    \item Wettbewerb \textbf{BWblüht} 
+    \item Wettbewerb \textbf{Burda} 
+    \item Wettbewerb \textbf{EDEKA}
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Meldepflicht}
+
+\begin{frame}{Meldepflicht}
+\frametitle{Meldepflicht} 
+\framesubtitle{Vorschlag eines Projekt-Plans}
+\begin{center}
+    \includegraphics[width=1.0\textwidth]{figures/BH-Logo.png}
+\end{center}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection[Aufgaben]{Wie geht's weiter?}
+
+\begin{frame}{Wie geht's weiter?}
+\frametitle{Anstehende Aufgaben} 
+\framesubtitle{Frühjahr 2024}
+
+\textbf{Nächste Schritte:}
+\begin{itemize}
+    \item Besichtigung der Flächen: \textbf{Termin?} 
+    \item Vorbereitung und Bewerbung: \textbf{Wettbewerbe} 
+    \item Saatgut bestellen
+    \item Flächen vorbereiten
+    \item Einsaat
+    \item Nächste Schritte...
+\end{itemize}
+\begin{center}
+    \textbf{Packen wir's an....}	
+</center}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section[Aufgaben]{Wie finden wir die Nester?}
+
+\begin{frame}{Wie geht's weiter?}
+\frametitle{Anstehende Aufgaben} 
+\framesubtitle{Frühjahr 2024}
+
+\textbf{Nächste Schritte:}
+\begin{itemize}
+    \item Besichtigung der Flächen: \textbf{Termin?} 
+    \item Vorbereitung und Bewerbung: \textbf{} 
+    \item Saatgut 
+    \item Flächen 
+    \item Einsaat
+    \item Nächste Schritte...
+\end{itemize}
+\begin{center}
+    \textbf{Packen wir's an....}	
+</center}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
+
+This version is cleaner, with unnecessary comments removed and formatting made consistent. Let me know if you need any further adjustments!
